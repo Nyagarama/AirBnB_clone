@@ -7,11 +7,11 @@ body{
 	font-family: Circular, "Helvetica Neue", Helvetica, Arial,sans-serif;
 }
 /* div container style */
-.container{
-	max-width: 100px;
-	margin-top: 30px;
-	margin-bottom: 30px;
-	margin-left: auto;
-	margin-right: auto;
-	position: relative;
-}
+	div.container{
+		max-width: 1000px;
+		margin-top: 30px;
+		margin-bottom: 30px;
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+	}
